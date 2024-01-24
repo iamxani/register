@@ -1,0 +1,11 @@
+{
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "011",
+
+    "owner": {
+        "email": "xenpei11@gmail.com"
+    },
+
+    "records": {
+        "CNAME": "myfiles.github.io"
+    }}
